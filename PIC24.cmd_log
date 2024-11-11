@@ -1,0 +1,4 @@
+sch2vhdl -intstyle ise -family xa9500xl -flat -suppress -w "C:/Xilinx92i/PIC24/PIC24.sch" PIC24.vhf
+sch2vhdl -intstyle ise -family xa9500xl -flat -suppress -w "C:/Xilinx92i/PIC24/PIC24.sch" PIC24.vhf
+sch2vhdl -intstyle ise -family xa9500xl -flat -suppress -w "C:/Xilinx92i/PIC24/PIC24.sch" PIC24.vhf
+sch2vhdl -intstyle ise -family xa9500xl -flat -suppress -w "C:/Xilinx92i/PIC24/PIC24.sch" PIC24.vhf

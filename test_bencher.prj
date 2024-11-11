@@ -1,0 +1,3 @@
+vhdl work "ProgCnt.vhd"
+vhdl work "PC_Update.vhd"
+vhdl work "PIC24.vhf"
